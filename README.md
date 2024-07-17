@@ -1,0 +1,1 @@
+https://wastedis.netlify.app/
